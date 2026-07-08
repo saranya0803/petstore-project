@@ -3,6 +3,7 @@ Server-1 - Jenkins
 
 *Create an Ubuntu with t2.xlarge*
 
+#!/bin/bash
 sudo apt update
 apt install openjdk-21-jre -y
 
