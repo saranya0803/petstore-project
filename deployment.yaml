@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: petshop
-        image: vijay3639/petshop:latest
+        image: saranya0803/petshop:latest
         ports:
         - containerPort: 8080
         imagePullPolicy: Always
